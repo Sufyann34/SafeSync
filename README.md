@@ -10,7 +10,7 @@ Spring Boot integration: Developed with Spring Boot for seamless performance.
 Future enhancements: Personalized UI: Personalized user interface for each user.
 Database integration: Switch from file-based storage to MySQL for greater efficiency and scalability.
 # Installation
-Clone the repository: git clone https://github.com/SyedMohammadHasanNaqvi/SafeSync-Anwendung
+Clone the repository: git clone https://github.com/Sufyann34/SafeSync
 Change to the project directory: cd SafeSync-Anwendung
 First run the FileServerApplication class and then start the LoginUI class to open the application.
 # License
